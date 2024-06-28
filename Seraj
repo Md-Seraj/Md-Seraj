@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Md Seraj Official</title>
+</head>
+<body>
+ <h1>Welcome to My Webpage</h1>
+<img src="0.jpg" alt="0.jpg">
+<hr>
+<h2>About Me</h2>
+<p>Ha! My Name Is:- Md Seraj</p>
+<h2>My Interest</h2>
+<p>I enjoy   <b>coding</b> reading
+ and Spending out doors</p>
+ <h2>Hobbies</h2>
+ <ul>
+     <li>playing guitar</li>
+     <li>photography</li>
+     <li>traveling</li>
+ </ul>
+ <h2>Skills</h2>
+ <ol>
+    <li>Web Development</li> 
+    <li>Graphic Design</li>
+    <li>project Management</li>
+ </ol>
+ <h2>Education Qualification</h2>
+ <table border>
+     <tr>
+         <th>Degree</th>
+         <th>instaiton</th>
+         <th>Year</th>
+         </tr>
+         <tr>
+         <td>Hachlor's in computer science</td>
+         <td>XYZ University</td>
+         <td>2022</td>
+          </tr>
+          <tr>
+              <td>Hight School Diploma</td>
+              <td>ABC Hight School</td>
+              <td>2018</td>
+               </tr> </table>
+
+ <h2>Work Experience</h2>
+ <table border>
+     <tr>
+         <th>position</th>
+         <th>Company</th>
+         <th>Year</th>
+     </tr>
+     <tr>
+         <td>Web Development</td>
+         <td>Tech Solution</td>
+         <td>2022-presume</td>
+     </tr>
+     <tr>
+         <td>Intern</td>
+         <td>Creative Agency</td>
+         <td>2021-2022</td>
+     </tr>
+ </table>
+ <h2>Contact Me</h2>
+ <p>you con reach me at:</p>
+ </BODY>
+</HTML>
+    
